@@ -34,6 +34,6 @@ This project demonstrates how to set up a REST API using ASP.NET Core and integr
 4. **Access Swagger UI**:
     Open your browser and navigate to https://localhost:5001/swagger to view the interactive API documentation.
 
-#Project Structure
+# Project Structure
   - Program.cs: Configures the application, including setting up Swagger and dependency injection.
   - Controllers: Contains the API controllers that handle HTTP requests.
